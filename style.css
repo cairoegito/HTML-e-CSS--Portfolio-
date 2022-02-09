@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+header {
+    width: 1400px;
+    height: 68px;
+    background-color: blue;
+    display: flex;
+    margin: auto;
+}
+
+a {
+    font-size: 19px;
+}
+
+.fotosmeio {
+    display: flex;
+    justify-content: center;
+}
+
+.textoum {
+    margin-right: 200px;
+    margin-left: 100px;
+    color: white;
+    justify-content: center;
+}
+
+.textodois {
+    margin-right: 200px;
+    margin-left: 100px;
+    color: white;
+    justify-content: center;
+}
+
+.textotres {
+    margin-right: 200px;
+    margin-left: 100px;
+    color: white;
+    justify-content: center;
+}
+
+.textoquatro {
+    color: white;
+}
+
+.button {
+    width: 71px;
+    height: 60px;
+    background-color: blue;
+}
+
+section {
+    display: inline-block;
+    margin: auto;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+
+.search {
+    width: 850px;
+    height: 60px;
+}
+
+.search:hover {
+    background-color: rgb(238, 221, 221);
+}
+ 
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+p {
+    width: 1000px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.csstext {
+    text-align: left;
+}
+ 
+.container {
+    display: flex;
+    width: 500px;
+    margin-left: 200px;
+}
+
+.figuraum {
+    margin-right: 30px;
+}
+
+.figuradois {
+    margin-right: 30px;
+}
+
+.paragrafoum {
+    display: flex;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.paragrafodois {
+    display: flex;
+    width: 500px;
+    margin-left: 100px;
+}
