@@ -13,6 +13,16 @@ header {
     margin: auto;
 }
 
+.textos {
+    margin-top: 12px;
+}
+
+.botao {
+    height: 63px;
+    width: 80px;
+    padding-top: 50px;
+}
+
 a {
     font-size: 19px;
 }
@@ -47,14 +57,9 @@ a {
     color: white;
 }
 
-.button {
-    width: 71px;
-    height: 60px;
-    background-color: blue;
-}
 
 section {
-    display: inline-block;
+    display: flex;
     margin: auto;
     margin-left: 200px;
     margin-top: 50px;
@@ -111,4 +116,12 @@ p {
     display: flex;
     width: 500px;
     margin-left: 100px;
+}
+
+.fote {
+    margin-left: 100px;
+}
+
+.fotee {
+    margin-left: 80px;
 }
